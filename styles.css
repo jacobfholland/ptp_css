@@ -1294,7 +1294,7 @@
     width: 19%;
     margin-bottom: var(--sp--large);
     border-radius: var(--br);
-    position: relative;
+    position: relative; /* PTP -> Radarr fix */
   }
   
   .cover-movie-list.clearfix::after,
